@@ -19,7 +19,7 @@ body {
     color: white;
     border-radius: 10px;
     padding: 30px 20px;
-    backdrop-filter: blur(20px);
+    backdrop-filter: blur(30px);
 }
 
 .wrapper h1 {
