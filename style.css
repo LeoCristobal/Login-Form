@@ -20,6 +20,8 @@ body {
     border-radius: 10px;
     padding: 30px 20px;
     border: 2px solid rgba(255, 255, 255, .2);
+    backdrop-filter: blur(20px);
+    box-shadows: 0 0 10px rgba(0, 0, 0, .2);
     
 }
 
